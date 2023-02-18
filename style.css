@@ -7,23 +7,29 @@ h1{
 }
 .heading{
     margin-top: 10px;
-    margin-bottom: 5px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
 }
 .bgimg{
     
     background-image:url('https://img.freepik.com/free-vector/blank-blue-frame-design_53876-100789.jpg') ;
     height: 400px;
-    width: 800px;
+    width: 600px;
     object-fit: contain;
     display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
+    text-align: center;
 }
 .infodiv{
     display: flex;
     justify-content: center;
     flex-direction: column;
+    text-align: center;
     align-items: center;}
 .box{
     margin-top: 10px;
