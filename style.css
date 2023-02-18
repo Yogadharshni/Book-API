@@ -24,9 +24,7 @@ h1{
     display: flex;
     justify-content: center;
     flex-direction: column;
-    align-items: center;
-    background-image: url('https://images.unsplash.com/photo-1521587760476-6c12a4b040da?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Ym9vayUyMGJhY2tncm91bmR8ZW58MHx8MHx8&w=1000&q=80');
-}
+    align-items: center;}
 .box{
     margin-top: 10px;
     margin-bottom: 10px;
