@@ -1,0 +1,36 @@
+p{
+    font-weight: 900;
+}
+h1{
+    font-weight: bolder;
+    text-align: center;
+}
+.heading{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.bgimg{
+    
+    background-image:url('https://img.freepik.com/free-vector/blank-blue-frame-design_53876-100789.jpg') ;
+    height: 400px;
+    width: 800px;
+    object-fit: contain;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.infodiv{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-image: url('https://images.unsplash.com/photo-1521587760476-6c12a4b040da?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Ym9vayUyMGJhY2tncm91bmR8ZW58MHx8MHx8&w=1000&q=80');
+}
+.box{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+body{
+    background-color: black;
+}
